@@ -16,6 +16,7 @@ My best Repos
 
 https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white
+https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white
 
 <!--
 **ThatcherReidel/ThatcherReidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
